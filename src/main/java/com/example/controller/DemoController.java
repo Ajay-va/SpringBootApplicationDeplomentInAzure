@@ -13,7 +13,7 @@ public class DemoController {
     @GetMapping("/welcome")
     public String welcome(){
 
-        return "Welcome to Spring Boot Application We are deploying in Azure portal ==> Ajay Varma Javvaji";
+        return "This is my First Deployment in Azure ... !!! Congratulations...!!!! Ajay Varma Javvaji";
     }
 
 
