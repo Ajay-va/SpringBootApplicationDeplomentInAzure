@@ -12,7 +12,6 @@ public class DemoController {
 
     @GetMapping("/welcome")
     public String welcome(){
-
         return "This is my First Deployment in Azure ... !!! Congratulations...!!!! Ajay Varma Javvaji";
     }
 
